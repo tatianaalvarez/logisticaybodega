@@ -1,0 +1,6 @@
+{
+  "name": "LogiPrint - Abastecimiento Bodega a Prensa",
+  "description": "Sistema de gestión logística y flujo de suministros para imprenta litográfica (Impresos El Día S.A.S.): Kardex ABC, trazabilidad en tiempo real, autorizaciones, programación para prensas Roland 700 y Komori, sincronización instantánea y métricas OTIF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
